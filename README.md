@@ -33,7 +33,7 @@ Tools       Git · Obsidian · LaTeX
 
 ## Projects
 
-### [Dialogue Divergence Tree](https://github.com/...) 
+### [Dialogue Divergence Tree]([https://github.com/AlexanderYWHDu/dialogue-divergence-tree]) 
 A local-first, tree-structured AI conversation explorer — branch, compare, and navigate diverging LLM reasoning paths.  
 `Vite` `React` `TypeScript` `ReactFlow` `Dexie.js`
 
@@ -44,17 +44,15 @@ A local-first, tree-structured AI conversation explorer — branch, compare, and
 ## Other Things
 
 - Teaching myself piano — interested in the phenomenology of skill acquisition, the mind-body divide in motor learning
-- *Ghost in the Shell: Stand Alone Complex* as a serious text on memetics, identity dissolution, and distributed cognition
-- Developing a philosophical framework I'm calling **The Architecture of Conscious Exile** — on epistemological limits and the structure of the Absolute
+
 
 ---
 
 ## Currently
 
-- Undergrad @ WashU (graduating 2027)
-- Eyeing CS Master's programs (CMU, Stanford)
+- Undergrad @ WashU (graduating 2029)
 - Open to research collaborations in ML theory or computational cognitive science
 
 ---
 
-<sub>INTP. Probably reading Nietzsche right now.</sub>
+<sub>INTP/INTJ. Probably reading Deleuze right now.</sub>
