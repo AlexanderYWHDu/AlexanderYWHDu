@@ -1,4 +1,4 @@
-# Alex
+# Alexander Du
 
 **Math + CS / Philosophy–Neuroscience–Psychology @ Washington University in St. Louis**  
 *Statistics minor · ML/DL · Philosophy of Mind*
@@ -7,7 +7,6 @@
 
 I work at the intersection of formal systems and the limits of what they can represent — computationally, cognitively, and philosophically.
 
-My CS/Math side builds things. My PNP side interrogates whether those things mean anything.
 
 ---
 
@@ -23,7 +22,7 @@ My CS/Math side builds things. My PNP side interrogates whether those things mea
 ## Technical Stack
 
 ```
-Languages   Python · TypeScript · R · C
+Languages   Python · Java · Javascript · TypeScript · R · C++
 ML/DL       PyTorch · NumPy · scikit-learn
 Web         React · Vite · Node.js
 Data        Dexie.js · SQL
@@ -34,7 +33,7 @@ Tools       Git · Obsidian · LaTeX
 
 ## Projects
 
-### [Dialogue Divergence Tree](https://github.com/...) *(in progress)*
+### [Dialogue Divergence Tree](https://github.com/...) 
 A local-first, tree-structured AI conversation explorer — branch, compare, and navigate diverging LLM reasoning paths.  
 `Vite` `React` `TypeScript` `ReactFlow` `Dexie.js`
 
