@@ -15,7 +15,6 @@ I work at the intersection of formal systems and the limits of what they can rep
 - **Machine learning theory** — representation learning, generalization, the geometry of learned features  
 - **Philosophy of mind & cognitive science** — the hard problem, embodied cognition, post-structuralist readings of subjectivity (Deleuze, Foucault, Lacan)  
 - **Formal epistemology** — limits of inference, Wittgensteinian language games, the boundaries of the sayable  
-- **Neuroscience** — neural coding, dynamical systems models of cognition
 
 ---
 
