@@ -59,4 +59,4 @@ A local-first, tree-structured AI conversation explorer — branch, compare, and
 
 ---
 
-<sub>INTP/INTJ. Probably reading Deleuze right now.</sub>
+<sub> Probably reading Deleuze right now( </sub>
