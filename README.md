@@ -2,7 +2,9 @@
 
 **Math + CS / Philosophy–Neuroscience–Psychology @ Washington University in St. Louis**  
 *Statistics minor · ML/DL · Philosophy of Mind*
+
 *Language: Java, Python, C, JavaScript*
+
 *Skills: Pytorch, HTML, CSS, Linux, React, Vue*
 
 ---
