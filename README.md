@@ -7,6 +7,8 @@
 
 *Skills: Pytorch, HTML, CSS, Linux, React, Vue*
 
+*Interests: Mechanistic Interpretability, Cognitive Science, AI Infra*
+
 ---
 
 I work at the intersection of formal systems and the limits of what they can represent — computationally, cognitively, and philosophically.
