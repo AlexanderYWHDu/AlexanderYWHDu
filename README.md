@@ -5,7 +5,7 @@
 
 *Language: Java, Python, C, JavaScript*
 
-*Skills: Pytorch, HTML, CSS, Linux, React, Vue*
+*Skills: Pytorch, TransformerLens, HTML, CSS, Linux, React, Vue*
 
 *Interests: Mechanistic Interpretability, Cognitive Science, AI Infra*
 
