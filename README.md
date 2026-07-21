@@ -3,7 +3,7 @@
 **Math + CS / Philosophy–Neuroscience–Psychology @ Washington University in St. Louis**  
 *ML/DL · Transformers · Linguistics*
 
-*Language: Java, Python, C, JavaScript*
+*Language: Java, Python, Ct*
 
 *Skills: Pytorch, TransformerLens, circuitsvis*
 
