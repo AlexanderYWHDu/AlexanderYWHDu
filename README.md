@@ -1,13 +1,13 @@
 # Alexander Du
 
 **Math + CS / Philosophy–Neuroscience–Psychology @ Washington University in St. Louis**  
-*Statistics minor · ML/DL · Philosophy of Mind*
+*ML/DL · Transformers · Linguistics*
 
 *Language: Java, Python, C, JavaScript*
 
-*Skills: Pytorch, TransformerLens, HTML, CSS, Linux, React, Vue*
+*Skills: Pytorch, TransformerLens, circuitsvis*
 
-*Interests: Mechanistic Interpretability, Cognitive Science, AI Infra*
+*Interests: Computational Neuroscience, Mechanistic Interpretability, Philosophy of Mind/Language*
 
 ---
 
