@@ -6,7 +6,7 @@
 
 *Skills: Pytorch, TransformerLens, circuitsvis, NumPy, Matplotlib, SciPy*
 
-*Interests: ML/DL, Computational Neuroscience, Mechanistic Interpretability, Cognitive Science, Philosophy of Mind/Language, Epistemology, Linguistics*
+*Interests: ML/DL, Computational Neuroscience, Mechanistic Interpretability, Cognitive Science, Philosophy of Mind/Language, Linguistics*
 
 ---
 
