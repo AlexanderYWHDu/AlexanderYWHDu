@@ -4,9 +4,10 @@
 
 *Language: Java, Python, C*
 
-*Skills: Pytorch, TransformerLens, circuitsvis, NumPy, Matplotlib, SciPy*
+*Skills: Pytorch, TransformerLens, NumPy, Pandas, Matplotlib, SciPy*
 
-*Interests: ML/DL, Computational Neuroscience, Mechanistic Interpretability, Cognitive Science, Philosophy of Mind/Language, Linguistics*
+*Interests: Computational Neuroscience, Cognitive Science, Mechanistic Interpretability, Machine Learning, Deep 
+Learning, Natural Language Processing, Philosophy of Mind/Language, Linguistics*
 
 ---
 
