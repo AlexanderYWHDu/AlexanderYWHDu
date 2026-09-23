@@ -2,12 +2,12 @@
 
 **Math + CS / Philosophy–Neuroscience–Psychology @ Washington University in St. Louis**  
 
-*Language: Java, Python, C*
+*Language: Python, Java, C, R*
 
 *Skills: Pytorch, TransformerLens, NumPy, Pandas, Matplotlib, SciPy*
 
-*Interests: Computational Neuroscience, Cognitive Science, Mechanistic Interpretability, Machine Learning, Deep 
-Learning, Natural Language Processing, Philosophy of Mind/Language, Linguistics*
+*Interests: Neuroengineering, Computational Neuroscience, Systems Neuroscience, Machine Learning, Deep 
+Learning, Natural Language Processing, Analytic Philosophy*
 
 ---
 
