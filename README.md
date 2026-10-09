@@ -1,19 +1,14 @@
 # Alexander Du
 
-**Math + CS / Philosophy–Neuroscience–Psychology @ Washington University in St. Louis**  
+**Math + CS / Systems Science & Engineering @ Washington University in St. Louis**  
 
-*Language: Python, Java, C, R*
+*Languages: Python, C++, C, MATLAB, Java, R*
 
-*Skills: Pytorch, TransformerLens, NumPy, Pandas, Matplotlib, SciPy*
+*Skills: Data Analysis, Model Training, Signal Processing*
 
-*Interests: Neuroengineering, Computational Neuroscience, Systems Neuroscience, Machine Learning, Deep 
-Learning, Natural Language Processing, Analytic Philosophy*
+*Interests: Neuroengineering, Brain-Computer Interfaces, Robotics, Embodied Intelligence, Machine Learning, Deep 
+Learning, Analytic Philosophy*
 
----
-
-I work at the intersection of formal systems and the limits of what they can represent — computationally, cognitively, and philosophically.
-
----
 
 ### Projects
 - **[Induction Heads in GPT-2](https://github.com/AlexanderYWHDu/Induction_Head)** — Identified and verified induction head circuits in GPT-2 small using TransformerLens (attention pattern analysis, ablation, activation patching), following Elhage et al. and Olsson et al.
